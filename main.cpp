@@ -11,7 +11,7 @@ void wyswietlObiekty(Lewy& a, Lewy& b)
 
 void testPlus(Lewy& a, Lewy& b)
 {
-    std::cout << "operator+ : " ;
+    std::cout << "operator+: " ;
     a + b;
     a.wyswietl();
 }
